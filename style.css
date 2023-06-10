@@ -6,7 +6,7 @@
     outline: none;
 }
 body{
-    background-color: #ecf0f3;
+    background-color: rgb(88, 126, 244);
 }
 .cntainer{
     height: 100vh;
@@ -43,6 +43,7 @@ body{
 button{
     height: 48px;
     width: 48px;
+    cursor: pointer;
     background-color: #ecf0f3;
     box-shadow:  -5px -5px 12px #ffffffff,
                         5px 5px 12px rgba(0, 0, 0, 0.16);
